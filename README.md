@@ -8,6 +8,6 @@ An AI-powered interview coaching tool that uses Voice-to-Text and LLM analysis t
 - **Data Handling:** Pandas & Python
 
 ## 👥 Team Roles
-- **Person A:** UI & Integration Lead
-- **Person B:** AI Pipeline Engineer
-- **Person C:** Data & Analytics Specialist
+Sanskrati Yadav: Frontend & Workflow Integration 
+Khushi Chouhan: AI Pipeline Engineering  
+Samridhi Jhaver: Dashboard Analytics & README Documentation
